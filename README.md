@@ -3,7 +3,10 @@
 Presentación interactiva para el curso de Neurofisiología, Psicología, U de Colombia.
 Presentada por Julián Olarte y Francy Bernal.
 
-**Ver:** https://julianolarteramos.github.io/sistema-endocrino/
+**Ver:**
+
+- v1, tablero neuroendocrino: https://julianolarteramos.github.io/sistema-endocrino/
+- v2, modelo anatómico: https://julianolarteramos.github.io/sistema-endocrino/v2/
 
 ## Controles
 
