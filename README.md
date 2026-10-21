@@ -15,5 +15,6 @@ Presentada por Julián Olarte y Francy Bernal.
 - Inicio / Fin: primer y último paso
 - F: pantalla completa
 - `#paso-N` en la URL abre en ese paso
+- Solo v2: rueda o + / − / 0 para zoom, arrastrar para mover, [ y ] o Mayús+arrastrar para girar
 
 Figura hecha con la skill [anatomy](https://github.com/wheresryan22/anatomy).
